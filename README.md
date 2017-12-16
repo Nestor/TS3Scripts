@@ -1,6 +1,7 @@
 # TS3Scripts
 
 All this scripts require PHP to run. If you don't have PHP installed yet, you can install it via apt install php on Linux Debian and Ubuntu.
+
 If you have any questions about the scripts, you can contact me on ts-thebeast.net
 
 ## ts3serverclientcrashertill3.1.6.php
